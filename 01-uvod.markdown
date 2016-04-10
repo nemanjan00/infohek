@@ -93,6 +93,8 @@ They are extremely vulnerable to assault
 
 # InfoHak works always. Everywhere.
 
+---
+
 .image-width[
 	![demo](http://i.imgur.com/bn9wJaM.gif)
 ]
