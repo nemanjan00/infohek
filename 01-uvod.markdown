@@ -6,6 +6,7 @@ class: center, middle, inverse
 # InfoHek - *505# #
 
 .footnote[
+
 	Nemanja Nedeljković - hack |
 	Katarina Popović - communication
 ]
