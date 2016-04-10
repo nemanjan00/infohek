@@ -58,6 +58,7 @@ class: center, middle, inverse
 ## The most difficult issue / how to communicate without the means to communicate?
 
 ---
+
 layout: false
 
 ### **A route**
