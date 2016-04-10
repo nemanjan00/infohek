@@ -3,7 +3,7 @@ class: center, middle, inverse
 
 ---
 
-# HekInfo
+# InfoHek - *505# #
 
 .footnote[
 
@@ -143,15 +143,16 @@ layout: true
 class: center, middle, inverse
 
 ---
-.footnote[
-  Katarina
-  ketywriter@gmail.com
 
-  Nemanja
-  nemanjan00@gmail.com
+## Katarina
 
+## ketywriter@gmail.com
 
-]
+## Nemanja
+
+## nemanjan00@gmail.com
+
+# Let's do it
 
 <style>
 .image-width > img {
