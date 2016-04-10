@@ -96,6 +96,8 @@ They are extremely vulnerable to assault
 
 ---
 
+# *505# #
+
 .image-width[
 	![demo](http://i.imgur.com/bn9wJaM.gif)
 ]
@@ -153,7 +155,7 @@ class: center, middle, inverse
 
 ## nemanjan00@gmail.com
 
-# Let's do it
+# Let's do it *505# #
 
 <style>
 .image-width > img {
