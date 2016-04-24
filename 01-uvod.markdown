@@ -3,7 +3,7 @@ class: center, middle, inverse
 
 ---
 
-# InfoHek - *505# #
+# InfoHelp - *505# #
 
 .footnote[
 
@@ -42,7 +42,7 @@ layout: false
 
 layout: false
 
-## How can online logic create offline magic?
+## Kako online logikom pravimo offline magiju? 
 
 .image-width[
 	![super gif](https://49.media.tumblr.com/a7237fabec558257cdad24327ed1ddf2/tumblr_n2dnzn2fRz1su88r3o1_500.gif)
@@ -55,26 +55,27 @@ class: center, middle, inverse
 
 ---
 
-## The most difficult issue / how to communicate without the means to communicate?
+## Izazov - kako komunicirati bez alata za komunikaciju? 
 
 ---
 
 layout: false
 
-### **A route**
+## Osnovni problemi
+
+### **Putanje**
 
 
-### **The lack of Wi-Fi**
+### **Wi-Fi**
 
 
-### **The need for information and/or reporting**
+### **Neophodnost da se na licu mesta komunicira/prijavi situacija**
 
 ---
 
 # Route
 
-
-Refugees walk long distances BETWEEN places with Wi-Fi
+Dugačke rute (hodajuće) između gradova i nedostatak Wi-Fi usput
 
 .image-width[
 	![map](https://pbs.twimg.com/media/CO8rd3gWUAAkQJf.jpg:large)
@@ -84,7 +85,7 @@ Refugees walk long distances BETWEEN places with Wi-Fi
 
 # Violence reporting
 
-They are extremely vulnerable to assault
+Ekstremna izloženost različitim opasnostima
 
 .image-width[
 	![map](http://media.phillyvoice.com/media/images/tmpV0LTHB.2e16d0ba.fill-735x490.jpg)
@@ -92,7 +93,7 @@ They are extremely vulnerable to assault
 
 ---
 
-# InfoHak works always. Everywhere.
+# InfoHelp radi uvek. I svuda.
 
 ---
 
@@ -104,29 +105,40 @@ They are extremely vulnerable to assault
 
 ---
 
-# USSD can be huge for crisis relief
+# USSD ima ogroman potencijal da pomogne migrantskoj krizi
 
 ## **Unstructured Supplementary Service Data**
 
-**location sensitive**
+**Određivanje lokacije**
 
-**interactive**
+**Interaktivnost**
 
-**always on**
+**Informacije**
 
-**it can be free**
+**Offline**
+
+**Besplatno**
 
 ---
 
-#Telco cooperation
+# InfoHelp - realizacija uz pomoć telco operatera
 
 ![](http://i.imgur.com/ALNccYC.png)
 
-## **contacts**
-
-## **realization**
+## **Mnogo šira primena**
 
 ---
+
+layout: true
+class: center, middle, inverse
+
+---
+
+## Potencijal i primenljivost 
+
+---
+
+layout: false
 
 # Integration potential
 
