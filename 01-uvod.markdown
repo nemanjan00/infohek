@@ -7,8 +7,8 @@ class: center, middle, inverse
 
 .footnote[
 
-	Nemanja Nedeljković - hack |
-	Katarina Popović - communication
+	Nemanja Nedeljkovic - hack |
+	Katarina Popovic - communication
 ]
 
 ---
@@ -75,7 +75,7 @@ layout: false
 
 # Route
 
-Dugačke rute (hodajuće) između gradova i nedostatak Wi-Fi usput
+Dugacke rute (hodajuce) izmedju gradova i nedostatak Wi-Fi usput
 
 .image-width[
 	![map](https://pbs.twimg.com/media/CO8rd3gWUAAkQJf.jpg:large)
@@ -85,7 +85,7 @@ Dugačke rute (hodajuće) između gradova i nedostatak Wi-Fi usput
 
 # Violence reporting
 
-Ekstremna izloženost različitim opasnostima
+Ekstremna izlozenost razlicitim opasnostima
 
 .image-width[
 	![map](http://media.phillyvoice.com/media/images/tmpV0LTHB.2e16d0ba.fill-735x490.jpg)
@@ -93,9 +93,16 @@ Ekstremna izloženost različitim opasnostima
 
 ---
 
-# InfoHelp radi uvek. I svuda.
+layout: true
+class: center, middle, inverse
 
 ---
+
+## InfoHelp radi uvek. I svuda.
+
+---
+
+layout: false
 
 # *505# #
 
@@ -109,7 +116,7 @@ Ekstremna izloženost različitim opasnostima
 
 ## **Unstructured Supplementary Service Data**
 
-**Određivanje lokacije**
+**Odredjivanje lokacije**
 
 **Interaktivnost**
 
@@ -121,11 +128,11 @@ Ekstremna izloženost različitim opasnostima
 
 ---
 
-# InfoHelp - realizacija uz pomoć telco operatera
+# InfoHelp - realizacija uz pomoc telco operatera
 
-![](http://i.imgur.com/ALNccYC.png)
-
-## **Mnogo šira primena**
+.image-width[
+	![](http://www.mobilnatelefonija.net/wp-content/uploads/2015/04/mts-logotip1.jpg)
+]
 
 ---
 
@@ -140,17 +147,59 @@ class: center, middle, inverse
 
 layout: false
 
-# Integration potential
+# Veliki dogadjaji na terenu
 
-* Fieldwork
+.image-width[
+	![](http://i.imgur.com/FcVzvuJ.jpg)
+]
 
-* Offline communication
+---
 
-* Warning system
+# Nepogode
 
-* FAQ
+.image-width[
+	![](http://i.imgur.com/H58i01J.jpg)
+]
 
-* Crisis relief efforts
+---
+
+# Krize
+
+.image-width[
+	![](http://i.imgur.com/5IYDYCO.jpg)
+]
+
+---
+
+# Nedostupni predeli
+
+.image-width[
+	![](http://i.imgur.com/SEKwm7s.jpg)
+]
+
+---
+
+layout: true
+class: center, middle, inverse
+
+---
+
+## Kako operater koristi InfoHelp
+
+---
+
+layout: false
+
+## InfoHelp proizvod
+
+### **Jednostavan user interface za unosenje podataka**
+
+### **Prilagodjavanje razlicitim situacijama prema potrebi**
+
+### **Brz i jednostavan setup**
+
+### **Razvoj potpuno nove Help ponude u okviru mts usluga**
+
 
 ---
 
