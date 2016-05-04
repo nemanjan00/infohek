@@ -198,8 +198,9 @@ layout: false
 
 ### **Brz i jednostavan setup**
 
-### **Razvoj potpuno nove Help ponude u okviru mts usluga**
+### **Razvoj potpuno nove Help ponude u okviru teleco usluga**
 
+### **Neophodan USSD gateway**
 
 ---
 
