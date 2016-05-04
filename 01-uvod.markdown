@@ -131,7 +131,7 @@ layout: false
 # InfoHelp - realizacija uz pomoc telco operatera
 
 .image-width[
-	![](http://bif.rs/wp-content/uploads/2013/05/vip.jpg<Paste>)
+	![](http://bif.rs/wp-content/uploads/2013/05/vip.jpg)
 ]
 
 ---
