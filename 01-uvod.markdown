@@ -131,7 +131,7 @@ layout: false
 # InfoHelp - realizacija uz pomoc telco operatera
 
 .image-width[
-	![](http://www.mobilnatelefonija.net/wp-content/uploads/2015/04/mts-logotip1.jpg)
+	![](http://bif.rs/wp-content/uploads/2013/05/vip.jpg<Paste>)
 ]
 
 ---
