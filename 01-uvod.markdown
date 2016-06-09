@@ -3,7 +3,7 @@ class: center, middle, inverse
 
 ---
 
-# InfoHelp - *505# #
+# InfoHelp - *303# #
 
 .footnote[
 
@@ -104,7 +104,7 @@ class: center, middle, inverse
 
 layout: false
 
-# *505# #
+# *303# #
 
 .image-width[
 	![demo](http://i.imgur.com/bn9wJaM.gif)
@@ -131,7 +131,7 @@ layout: false
 # InfoHelp - realizacija uz pomoc telco operatera
 
 .image-width[
-	![](http://bif.rs/wp-content/uploads/2013/05/vip.jpg)
+	![](http://www.nocreklamozdera.com/img/znak%20mts.jpg)
 ]
 
 ---
@@ -217,7 +217,7 @@ class: center, middle, inverse
 
 ## nemanjan00@gmail.com
 
-# Let's do it *505# #
+# Let's do it *303# #
 
 <style>
 .image-width > img {
