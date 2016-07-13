@@ -42,7 +42,7 @@ layout: false
 
 layout: false
 
-## Kako online logikom pravimo offline magiju? 
+## How to use online logic to create offline magic? 
 
 .image-width[
 	![super gif](https://49.media.tumblr.com/a7237fabec558257cdad24327ed1ddf2/tumblr_n2dnzn2fRz1su88r3o1_500.gif)
@@ -55,27 +55,27 @@ class: center, middle, inverse
 
 ---
 
-## Izazov - kako komunicirati bez alata za komunikaciju? 
+##  Challenge: how to communicate without the means of communication? 
 
 ---
 
 layout: false
 
-## Osnovni problemi
+## Basic issues
 
-### **Putanje**
+### **The routes**
 
 
 ### **Wi-Fi**
 
 
-### **Neophodnost da se na licu mesta komunicira/prijavi situacija**
+### **The need for immediate action/reaction**
 
 ---
 
 # Route
 
-Dugacke rute (hodajuce) izmedju gradova i nedostatak Wi-Fi usput
+The migrants are walking great distances without Wi-Fi
 
 .image-width[
 	![map](https://pbs.twimg.com/media/CO8rd3gWUAAkQJf.jpg:large)
@@ -85,7 +85,7 @@ Dugacke rute (hodajuce) izmedju gradova i nedostatak Wi-Fi usput
 
 # Violence reporting
 
-Ekstremna izlozenost razlicitim opasnostima
+Vulnerable to various attacks
 
 .image-width[
 	![map](http://media.phillyvoice.com/media/images/tmpV0LTHB.2e16d0ba.fill-735x490.jpg)
@@ -98,7 +98,7 @@ class: center, middle, inverse
 
 ---
 
-## InfoHelp radi uvek. I svuda.
+## InfoHelp works everywhere. And always.
 
 ---
 
@@ -112,23 +112,25 @@ layout: false
 
 ---
 
-# USSD ima ogroman potencijal da pomogne migrantskoj krizi
+# USSD has a great potential to aid the migrant crisis
 
 ## **Unstructured Supplementary Service Data**
 
-**Odredjivanje lokacije**
+**Location**
 
-**Interaktivnost**
+**Interactivity**
 
-**Informacije**
+**Information**
+
+**Reporting**
 
 **Offline**
 
-**Besplatno**
+**Free**
 
 ---
 
-# InfoHelp - realizacija uz pomoc telco operatera
+# InfoHelp - Cooperation with national telco companies
 
 .image-width[
 	![](http://www.nocreklamozdera.com/img/znak%20mts.jpg)
@@ -141,13 +143,13 @@ class: center, middle, inverse
 
 ---
 
-## Potencijal i primenljivost 
+## Potential and deployment
 
 ---
 
 layout: false
 
-# Veliki dogadjaji na terenu
+# Large scale events
 
 .image-width[
 	![](http://i.imgur.com/FcVzvuJ.jpg)
@@ -155,7 +157,7 @@ layout: false
 
 ---
 
-# Nepogode
+# Natural disasters
 
 .image-width[
 	![](http://i.imgur.com/H58i01J.jpg)
@@ -163,7 +165,7 @@ layout: false
 
 ---
 
-# Krize
+# Crisis situation
 
 .image-width[
 	![](http://i.imgur.com/5IYDYCO.jpg)
@@ -171,7 +173,7 @@ layout: false
 
 ---
 
-# Nedostupni predeli
+# Remote areas
 
 .image-width[
 	![](http://i.imgur.com/SEKwm7s.jpg)
@@ -184,23 +186,23 @@ class: center, middle, inverse
 
 ---
 
-## Kako operater koristi InfoHelp
+## How is the operator using InfoHelp?
 
 ---
 
 layout: false
 
-## InfoHelp proizvod
+## How are companies/NGOs using InfoHelp product
 
-### **Jednostavan user interface za unosenje podataka**
+### **Simple user interface for data entry**
 
-### **Prilagodjavanje razlicitim situacijama prema potrebi**
+### **Editable according to the situation in which is used**
 
-### **Brz i jednostavan setup**
+### **Quick and easy setup**
 
-### **Razvoj potpuno nove Help ponude u okviru teleco usluga**
+### **Opportunity - developing the new HELP offer within the telco product range**
 
-### **Neophodan USSD gateway**
+### **USSD gateway from the telco provider**
 
 ---
 
