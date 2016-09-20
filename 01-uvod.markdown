@@ -131,7 +131,7 @@ layout: false
 # InfoHelp - realizacija uz pomoc telco operatera
 
 .image-width[
-	![](http://www.nocreklamozdera.com/img/znak%20mts.jpg)
+	![](https://www.topmobilni.rs/tmFrontPlugin/images/vip-logo-big.png)
 ]
 
 ---
