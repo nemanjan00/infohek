@@ -35,7 +35,7 @@ layout: false
 ## NO TECH
 
 .image-width[
-	![mudd](https://scontent-fra3-1.xx.fbcdn.net/hphotos-xla1/v/t1.0-9/12512563_1678687205716540_9155691812786642715_n.jpg?oh=26fea97f331a8d37d5e03e67b47954e6&oe=57BF167C)
+	![mudd](http://www.b92.net/news/pics/2016/03/13/189953675856e529a85e860121840133_v4_big.jpg)
 ]
 
 ---
